@@ -77,3 +77,4 @@
 *   **2026-06-18**:
     *   **TC-01** 해결: "어머니의 나이 신고 위조" 설정을 완전히 삭제하고 20세에 결혼한 설정으로 고정. 관련 파일([02_family.md](file:///C:/GitHub/T-project/02_family.md), [04_timeline.md](file:///C:/GitHub/T-project/04_timeline.md))에서 위조 관련 텍스트와 메모 제거 완료.
     *   **세계관 추가**: 딥임팩트 대비를 위한 유동성(QE) 공급과 기술 개발의 상호 선순환 경제학, 독재 국가 대비 자본주의 체제의 우위 이론, 그리고 방주 탑승 배제자들의 숭고한 체념 및 묵인과 관련된 대중 사회심리 설정을 [01_world.md](file:///C:/GitHub/T-project/01_world.md)에 추가 완료.
+    *   **정합성 수정**: 존재하지 않는 `02_novel.md` 파일에 대한 참조를 실제 소설 설정 파일인 [02_family.md](file:///C:/GitHub/T-project/02_family.md) 및 [03_present.md](file:///C:/GitHub/T-project/03_present.md)로 정정 완료.
